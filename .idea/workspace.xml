@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d819bd69-4df2-4de8-8763-cdbe959beb85" name="Default" comment="task">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AngularDjango/movie" beforeDir="false" afterPath="$PROJECT_DIR$/AngularDjango/movie" afterDir="false" />
     </list>
@@ -159,7 +158,7 @@
       <path value="$PROJECT_DIR$/AngularDjango/movie/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="24" />
     <option name="width" value="960" />
     <option name="height" value="1056" />
@@ -278,7 +277,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="960" height="1056" extended-state="4" />
+    <frame x="-3" y="23" width="1926" height="1060" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32869378" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.37719297" side_tool="true" weight="0.30537635" />
@@ -286,8 +285,8 @@
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" sideWeight="0.5702875" weight="0.32795697" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4989518" weight="0.32948583" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.622807" visible="true" weight="0.30322582" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892932" visible="true" weight="0.2379386" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.622807" visible="true" weight="0.3019272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49892932" visible="true" weight="0.115548454" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.38300106" />
